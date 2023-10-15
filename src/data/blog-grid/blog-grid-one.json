@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "Lorem ipsum event title",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sagittis, risus vel laoreet pellentesque, lorem est porta sapien, nec rutrum mi arcu et dui.",
+    "url": "/leaguedetails",
+    "authorUrl": "/",
+    "date": "14 Feb 2024",
+    "author": "John Doe",
+    "image": "1.png",
+    "address":"Newyork"
+  },
+  {
+    "id": "2",
+    "title": "Lorem ipsum event title",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sagittis, risus vel laoreet pellentesque, lorem est porta sapien, nec rutrum mi arcu et dui.",
+    "url": "/leaguedetails",
+    "authorUrl": "/",
+    "date": "14 Jan 2023",
+    "author": "John Doe",
+    "image": "1.png",
+    "address":"London"
+  },
+  {
+    "id": "3",
+    "title": "Lorem ipsum event title",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sagittis, risus vel laoreet pellentesque, lorem est porta sapien, nec rutrum mi arcu et dui.",
+    "url": "/leaguedetails",
+    "authorUrl": "/",
+    "date": "14 Jan 2023",
+    "author": "John Doe",
+    "image": "1.png",
+    "address":"London"
+  },
+  {
+    "id": "4",
+    "title": "Lorem ipsum event title",
+    "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sagittis, risus vel laoreet pellentesque, lorem est porta sapien, nec rutrum mi arcu et dui.",
+    "url":"/leaguedetails",
+    "authorUrl": "/",
+    "date": "14 Jan 2023",
+    "author": "John Doe",
+    "image": "1.png",
+    "address":"London"
+  }
+]

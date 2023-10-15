@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "anything.",
+    "text": "Nunc viverra laoreet pulvinar. Pellentesque convallis quam tempor ipsum faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing.",
+    "url": "/",
+    "image": "hero-img.png",
+    "btn":"View "
+  },
+  {
+    "id": "2",
+    "title": "Make a better connection ",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sagittis, risus vel laoreet pellentesque.",
+    "url": "/",
+    "image": "hero-left.png",
+    "btn":"View "
+  }
+]

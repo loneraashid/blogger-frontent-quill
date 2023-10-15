@@ -1,0 +1,13 @@
+.edittournament-modal-div{
+    overflow-y: scroll;
+}
+
+.edittournament-modal-div::-webkit-scrollbar {
+    display: none;
+}
+
+
+.edittournament-modal-div{
+  -ms-overflow-style: none;  
+  scrollbar-width: none; 
+}

@@ -1,0 +1,50 @@
+@import "../../../assets/scss/variables";
+
+.prBreadcrumbArea {
+    display: flex;
+    align-items: center;
+    background-color: $breadcum-color;
+    height: 360px;
+    padding-top: 100px;
+    .breadcrumbTitle {
+        font-size: 50px;
+        line-height: 70px;
+
+        margin: 0;
+
+        color: #FEFEFE;
+    }
+}
+.blogBreadcrumbArea {
+    display: flex;
+    align-items: center;
+
+    height: 130px;
+    background-color: $breadcum-color;
+    padding-top: 70px;
+    
+}
+
+@media #{$xs-layout} {
+    .prBreadcrumbArea {
+        height: 200px;
+        padding-top: 87px;
+    }
+    .prBreadcrumbArea .breadcrumbTitle {
+        font-size: 50px;
+    }
+    .prBreadcrumbArea .breadcrumbTitle {
+        font-size: 30px;
+    }
+    .breadcrumb--2.prBreadcrumbArea .breadcrumbTitle {
+        font-size: 28px;
+        line-height: 45px;
+    }
+}
+
+@media #{$xxs-layout} {
+    .prBreadcrumbArea {
+        height: 200px;
+        padding-top: 82px;
+    }
+}

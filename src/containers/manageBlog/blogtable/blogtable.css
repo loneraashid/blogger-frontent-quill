@@ -1,0 +1,47 @@
+.action-btn .view {
+    height: 30px;
+    padding: 6px 6px;
+    background: #3e5f1d;
+    color: white;
+    width: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+}
+.action-btn .delete{
+
+    height: 30px;
+    padding: 6px 6px;
+    background: #b64913;
+    color: white;
+    width: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.action-btn{
+    border-bottom: none;
+    border-top: none;
+   
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+@media only screen and (max-width: 576px) {
+.tournament-header span{
+    font-size: 15px;
+}
+.tournament-header button{
+    font-size: 15px;
+    padding: 0.3rem 0.5rem;
+}
+}

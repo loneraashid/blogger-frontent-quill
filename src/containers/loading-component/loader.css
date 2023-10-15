@@ -1,0 +1,14 @@
+.loader-main{
+    height: 100vh;
+    background: #c8cbce;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+   
+}
+.preloader-img{
+    background-repeat: no-repeat;
+    height: 174px;
+    width: 56px;
+}
